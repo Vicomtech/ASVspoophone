@@ -28,7 +28,7 @@ PA/
     ASVspoophone_PA_dev/
     ASVspoophone_PA_eval/
     ASVspoophone_PA_train/
-    README.PA.txt
+    README.md
 ```
 
 
