@@ -1,22 +1,6 @@
 # ASVspoophone - Physical Access (PA)
 
 
-## Names:
-
- * [Ander González-Docasal](https://www.vicomtech.org/en/vicomtech/team/835) <sup>1</sup>
- * [Aitor Álvarez](https://www.vicomtech.org/en/vicomtech/team/228) <sup>1</sup>
- * [Haritz Arzelus](https://www.vicomtech.org/en/vicomtech/team/343) <sup>1</sup>
- * [Ane Lazpiur]() <sup>2</sup>
- * [Paz Delgado]() <sup>2</sup>
-
-## Affiliations:
-
-<sup>1</sup> [Vicomtech Foundation, Basque Research and Technology Alliance (BRTA)](https://www.vicomtech.org), Mikeletegi 57, 20009 Donostia-San Sebastián (Spain)
- 
-
-<sup>2</sup> [Natural Vox S.A.U.](http://www.naturalvox.eu), Araba-Álava, Spain
-
-
 ## Information
 
 ### 1. Directory Structure
